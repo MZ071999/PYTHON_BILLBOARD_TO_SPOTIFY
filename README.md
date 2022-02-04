@@ -7,3 +7,4 @@
 5. Create a new playlist containing all the songs
 
 End-Result:
+![Screenshot (239)](https://user-images.githubusercontent.com/72862846/152461510-13d460c4-7ac9-44d0-b80f-2b46998bdd5b.png)
